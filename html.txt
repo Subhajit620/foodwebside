@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Best Online Food Delivary Service in India | My Online food.com</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" media="screen and(max-width: 1170px)" href="phone.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   
+    <link
+        href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@600;700;800&family=Courgette&family=Varela+Round&display=swap"
+        rel="stylesheet">
+
+</head>
+
+<body>
+
+
+    <nav id="navbar">
+
+        <div id="logo">
+
+            <img src="C:\Users\SUBHAJIT\Desktop/profilepic-modified.png" alt="">
+
+
+        </div>
+        <ul>
+
+
+            <li class="item"><a href="#home">Home</a></li>
+            <li class="item"><a href="#services">Service</a></li>
+            <li class="item"><a href="#client-section">Our Clients</a></li>
+            <li class="item"><a href="#contact">Contact Us</a></li>
+
+        </ul>
+
+
+    </nav>
+
+
+
+
+
+
+    <section id="home">
+        <h1 class="h-primary">Welcome to my online food </h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, molestiae!Nam quaerat ratione eaque !</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. </p>
+        <button class="btn">Order now</button>
+    </section>
+
+
+    <section class="services-container">
+        <h1 class="h-primary center">Our Services</h1>
+        <div id="services">
+            <div class="box">
+                <img src="C:\Users\SUBHAJIT\Desktop/pizza9.png" alt="">
+                <h2 class="h-secondary center">Food Ordering</h2>
+                <p class="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quis minus odit,
+                    sapiente sunt a esse labore deleniti eos aliquam consequuntur velit, hic
+                    vitae corrupti animi? Natus ducimus laboriosam odio dolore sapiente praesentium illum?Lorem, ipsum
+                    dolor sit amet consectetur adipisicing elit.
+                    Laborum molestias ut a illo omnis, ex voluptates deserunt illum, enim quia possimus adipisci iusto.
+                </p>
+            </div>
+
+            <div class="box">
+                <img src="C:\Users\SUBHAJIT\Desktop/food.png" alt="">
+                <h2 class="h-secondary center">Food Catering</h2>
+                <p class="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quis minus odit,
+                    sapiente sunt a esse labore deleniti eos aliquam consequuntur velit, hic
+                    vitae corrupti animi? Natus ducimus laboriosam odio dolore sapiente praesentium illum?Lorem ipsum
+                    dolor sit amet consectetur adipisicing elit. Consectetur
+                    neque, sit quasi aliquid quis explicabo voluptatibus. Impedit cumque architecto nam voluptatem quia
+                    officiis.</p>
+            </div>
+
+            <div class="box">
+                <img src="C:\Users\SUBHAJIT\Desktop/pizza10.png" alt="">
+                <h2 class="h-secondary center">Free Home Delivary</h2>
+                <p class="center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quis minus odit,
+                    sapiente sunt a esse labore deleniti eos aliquam consequuntur velit, hic
+                    vitae corrupti animi? Natus ducimus laboriosam odio dolore sapiente praesentium illum?Lorem ipsum
+                    dolor sit amet consectetur, adipisicing elit. Reiciendis
+                    numquam eaque omnis? Inventore provident, culpa a quis aut placeat repellat maxime voluptas
+                    incidunt?</p>
+            </div>
+
+        </div>
+    </section>
+  
+    <section id="client-section">
+        <h1 class="h-praimary center"> Our Clients</h1>
+        <div id="clients">
+
+            <div class="client-item">
+
+                <img src="C:\Users\SUBHAJIT\Desktop/apple.png" alt="Our client">
+            </div>
+
+            <div class="client-item">
+
+                <img src="C:\Users\SUBHAJIT\Desktop/p1.png" alt="Our client">
+            </div>
+
+            <div class="client-item">
+
+                <img src="C:\Users\SUBHAJIT\Desktop/p2.png" alt="Our client">
+            </div>
+
+            <div class="client-item">
+
+                <img src="C:\Users\SUBHAJIT\Desktop/p3.png" alt="Our client">
+            </div>
+
+
+        </div>
+
+    </section>
+
+    <section id="contact">
+
+
+        <h1 class="primary center">Contact us</h1>
+        <div id="contact-box">
+
+            <form action="">
+
+
+                <div class="form-grup">
+                    <label for="name">Name:</label>
+                    <input type="text" name="name" id="name" placeholder="Enter your name">
+                </div>
+                <div class="form-grup">
+                    <label for="name">Email:</label>
+                    <input type="Email" name="Email" id="Email" placeholder="Enter your Email">
+                </div>
+                <div class="form-grup">
+                    <label for="name">Phone number:</label>
+                    <input type="phone" name="phone" id="phone" placeholder="Enter your Phone number">
+                </div>
+                <div class="form-grup">
+                    <label for="name">Message:</label>
+                    <textarea name="message" id="message" cols="30" rows="10"></textarea>
+
+                </div>
+            </form>
+
+
+        </div>
+    </section>
+
+    <footer>
+
+        <div class="center">
+            copyright &copy;www.myOnline Food.com.All rights reserved!
+        </div>
+    </footer>
+</body>
+
+</html>
